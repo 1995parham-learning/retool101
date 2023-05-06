@@ -3,6 +3,7 @@
 ## Introduction
 
 Retool helps you to build admin panels and dashboards with ease. Because of internet issues in Iran, I am going to use its on-promise setup.
+The on-promise setup is done based on this [repository](https://github.com/tryretool/retool-onpremise).
 
 ## [Step-by-Step](https://retool.com/self-hosted)
 
