@@ -2,4 +2,4 @@
 
 ## Introduction
 
-Retool helps you to build admin panels and dashboards with ease.
+Retool helps you to build admin panels and dashboards with ease. Because of internet issues in Iran, I am going to use its on-promise setup.
