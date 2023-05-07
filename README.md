@@ -70,6 +70,8 @@ POSTGRES_PASSWORD=randomstring
 
 - Add your auto-generated license key to the `docker.env` file instead of `CHANGE_ME`.
 
+- Remove `https-portal` service from `docker-compose.yml`.
+
 - Start `docker compose`:
 
 ```bash
